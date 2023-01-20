@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Mangroliya&label=Profile%20views&color=0e75b6&style=flat" alt="iamanmolmehra" /> </p>
 
-I am a student of Ujjain Engineering College pursuing B.Tech from Computer Science and Engineering branch, currently staying in Manawar (My hometown).
+I am a Associate Software Engineer at Nextuple Inc, have done my B.Tech from Ujjain Engineering College in Computer Science and Engineering branch, currently staying in Bangalore.
 
 <h3>:mailbox: Reach me out!</h3>
 
@@ -13,10 +13,10 @@ I am a student of Ujjain Engineering College pursuing B.Tech from Computer Scien
 
 <!-- TODO: Add last video link -->
 
-🌱 I’m making projects on [ReactJS](https://reactjs.org/docs/getting-started.html) and [JQuery](https://jquery.com/)
 - 💻 I have learnt four languages [C++](https://isocpp.org/), [Java](https://www.oracle.com/in/java/technologies/), [Python](https://www.python.org) and [Javascript](https://www.javascript.com)
 - 💻 I have done two databases [MySQL](https://www.mysql.com), [OracleDB](https://www.npmjs.com/package/oracledb)
 - 💻 I have worked on [Qt](https://www.qt.io/)
+- 💻 I have tried my hands on [ReactJS](https://reactjs.org/docs/getting-started.html) and [JQuery](https://jquery.com/) also.
 - 📫 How to reach me: [E-mail](yashmangroliya01@gmail.com), , [Instagram](https://www.instagram.com/yash_mangroliya__), [Twitter](@mangroliya_yash), [GitHub](https://github.com/YashMangroliya)
 - 😄 Pronouns: He/His
 <h3 align="left">Languages and Tools:</h3>
